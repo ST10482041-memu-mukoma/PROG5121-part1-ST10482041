@@ -5,7 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         Registration reg = new Registration();
         
-        System.out.println("=== Registration System ===");
+        System.out.println("=== PROG5121 Registration System ===");
         System.out.print("Enter username: ");
         String username = scanner.nextLine();
         System.out.print("Enter password: ");
