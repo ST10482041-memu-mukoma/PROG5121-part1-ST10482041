@@ -1,0 +1,9 @@
+References
+
+Apache Software Foundation. (2026). Apache Commons Validator [Computer software].
+    https://commons.apache.org/proper/commons-validator/
+
+JUnit. (2024). JUnit 4 [Computer software]. https://junit.org/junit4/
+
+The Independent Institute of Education. (2026). PROG5121: Programming 1A
+    [Module guide]. AdvTech Online. https://advtechonline.sharepoint.com/
